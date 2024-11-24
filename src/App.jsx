@@ -1,4 +1,5 @@
-import Hero from "./components/Hero"
+import About from "./components/About";
+import Hero from "./components/Hero";
 
 
 const App = () => {
@@ -6,11 +7,10 @@ const App = () => {
     <main className="max-width">
 
       <Hero />
-
-      <section className="z-0 min-h-screen bg-blue-500" />
+      <About />
 
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
