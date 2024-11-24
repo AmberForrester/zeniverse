@@ -13,7 +13,7 @@ const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {
         
         {rightIcon}
     </button>
-  )
-}
+  );
+};
 
-export default Button
+export default Button;
