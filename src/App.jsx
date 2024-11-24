@@ -1,12 +1,11 @@
+import Hero from "./components/Hero"
 
 
 const App = () => {
   return (
-    <main>
+    <main className="max-width">
 
-      <h1 className="text-5xl text-violet-300 font-bold">
-        Welcome to Zeniverse
-      </h1>
+      <Hero />
     </main>
   )
 }
