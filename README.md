@@ -157,6 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
+* [Zentry](https://zentry.com/) - Inspired by the creators of this incredibly beautiful website! HUGE SHOUT OUT TO YOU GUYS !!!
 * [Build an Awwwards Winning Wbsite](https://youtu.be/zA9r5zTllx4?si=t4JxdguLoq5zp3qS) - Special thank you to _JavaScript Mastery_ for the tutorial!
 * [React Icons - Installation ](https://www.npmjs.com/package/react-icons)
 * [React Icons](https://react-icons.github.io/react-icons/)
