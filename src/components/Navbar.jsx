@@ -74,7 +74,9 @@ const NavBar = () => {
         <nav className="flex size-full items-center justify-between p-4">
           {/* Logo */}
           <div className="flex items-center gap-7">
-            <img src="/img/logo.png" alt="logo" className="w-10" />
+            <a href="#home">
+              <img src="/img/logo.png" alt="logo" className="w-10"/>
+            </a>
           </div>
 
           {/* Navigation Links and Audio Button */}
