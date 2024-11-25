@@ -6,10 +6,10 @@
 
 <img src="/public/img/home.png" alt="Picture of Zeniverse homepage">
 
-<p align="center">Inspired by the visually captivating website Zentry, this project features engaging UI/UX features through scroll-triggered animations, geometric transitions, and engaging video storytelling.  
+<p align="center">Enter a vibrant world of endless possiblities with Zeniverse. Inspired by the visually captivating website Zentry, this project was designed with cutting-edge React.js for lightning fast interactions, Tailwind CSS for pixel-perfect visuals, and GSAP animations to make every scroll a story.  
 <br/>
 <br/>
-Zeniverse beautifully captures the essence of a harmonious and expansive digital experience. 
+Zeniverse beautifully captures the essence of a harmonious and expansive digital experience, emphasizing UI/UX engaging features. 
 <br />
 <br />
 
@@ -61,7 +61,7 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 ## Installation
 
 ### Prerequisite Tech Stacks
-- [React](https://react.dev/learn/start-a-new-react-project).
+- [React](https://react.dev/learn/start-a-new-react-project)
 - [Vite](https://vite.dev/guide/)
 - [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
 - [GSAP](https://gsap.com/)
