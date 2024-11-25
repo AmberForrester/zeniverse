@@ -150,11 +150,12 @@ const Hero = () => {
                         Enter the Metagame Layer <br /> Unleash the Play Economy
                     </p>
 
-                    <Button 
-                        id="watch-trailer"
-                        title="Watch Trailer"
-                        leftIcon={<TiLocationArrow />}
-                        containerClass="!bg-yellow-300 flex-center gap-1"
+                    <Button
+                    id="product-button"
+                    title="View Products"
+                    rightIcon={<TiLocationArrow />}
+                    containerClass="!bg-yellow-300 flex-center gap-1"
+                    href="#products"
                     />
                 </div>
             </div>
