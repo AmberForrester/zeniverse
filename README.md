@@ -13,7 +13,7 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 <br />
 <br />
 
-<a href="https://zeniverse.amberforrester.io">QuickGist Live Link</a>
+<a href="https://zeniverse.amberforrester.io">Zeniverse Live Link</a>
 .
 <a href="https://github.com/AmberForrester/zeniverse"><strong>Source Code</strong></a>
 
@@ -29,6 +29,7 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#features">Features</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#steps-to-install">Steps to Install</a></li>
     <li><a href="#how-to-run-the-application">How to Run the Application</a></li>
@@ -49,9 +50,17 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 
 
 
+## Project Structure
+
+<img src="/public/img/structure.png" alt="Picture of the project structure in Visual Studio Code">
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
 ## Installation
 
-### Prerequisites
+### Prerequisite Tech Stacks
 - **React.js:** [React](https://react.dev/learn/start-a-new-react-project).
 - **Vite:** [Vite](https://vite.dev/guide/)
 - **Tailwind CSS:** [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
@@ -92,6 +101,25 @@ Run the following command to install the project dependencies using npm:
    ```
 
 2. Paste `http://localhost:5173` in your browser to view the project.
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
+# Change Background Video Feature:
+Using just a click, view upcoming video and transition the background
+<img src="/public/img/ChangeBackgroundVideoFeature.png" alt="background video">
+
+# Geometric Transitions
+<img src="/public/img/geometricTransitions.png" alt="geometric transitions">
+
+# Bentobox Designs
+<img src="/public/img/bentoBoxDesign.png" alt="bentobox designs">
+
+# Toggle Audio Indicator
+<img src="/public/img/ToggleAudioIndicator.png" alt="toggle audio indicator">
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
