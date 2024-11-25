@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<h1 align="center">Zeniverse | Portal to the Metaverse</h1> 
+<h1 align="center">Zeniverse | Portal to the Metaverse :milky_way:</h1> 
 
 <div align="center">
 
