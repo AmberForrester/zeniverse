@@ -43,8 +43,12 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 
 
 ## Features
-- **:** .
-
+- **Scroll Activated Magic:** Transform your browsing experience with dynamic, scroll-based animations that bring every element to life.
+- **Geometric Masterpieces:** Experience stunning clip-path animations, where unique geometric transitions blend art and technology for an unforgettable visual impact.
+- **Interative 3D Hover Effects:** Feel the future at your fingertips with responsive 3D transformations that react seamlessly to every move, delivering a sleek and modern user interface.
+- **Immersive Video Transitions:** Enhance storytelling with fluidly integrated video elements that guide users through a captivating and cinematic digital journey.
+- **Engaging UI/UX:** Delight in polished interfaces and buttery-smooth interactions, designed to make every click and scroll intuitive and effortless.
+- **Seamless Responsiveness:** From desktops to smartphones, enjoy flawless adaptability across all devices, ensuring a consistently premium experience wherever you go.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
