@@ -74,12 +74,12 @@ Keep in mind, they are specific to using Windows.
 
 1. **Clone the Repository:**
   ```bash
-  git clone 
+  git clone https://github.com/AmberForrester/zeniverse 
   ```
 
 2. **Navigate to the project directory:**
   ```bash
-  cd 
+  cd zeniverse
   ```
 
 3. **Install Required Dependencies:** 
@@ -106,8 +106,7 @@ Run the following command to install the project dependencies using npm:
 
 
 
-# Change Background Video Feature:
-Using just a click, view upcoming video and transition the background
+# Change Background Video Feature
 <img src="/public/img/ChangeBackgroundVideoFeature.png" alt="background video">
 
 # Geometric Transitions
@@ -118,6 +117,9 @@ Using just a click, view upcoming video and transition the background
 
 # Toggle Audio Indicator
 <img src="/public/img/ToggleAudioIndicator.png" alt="toggle audio indicator">
+
+> [!NOTE]
+> This project uses some fonts from Zentry purely for demonstration purposes. All rights to these fonts belong to their respective owners. This project is not affiliated with or endorsed by Zentry.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
