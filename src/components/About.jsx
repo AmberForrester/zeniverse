@@ -4,6 +4,8 @@ import { ScrollTrigger } from "gsap/all";
 
 import AnimatedTitle from "./AnimatedTitle";
 
+
+
 gsap.registerPlugin(ScrollTrigger);
 
 const About = () => {
@@ -41,8 +43,7 @@ const About = () => {
         <div className="about-subtext">
           <p>The Game of Games begins—your life, now an epic MMORPG</p>
           <p className="text-gray-500">
-            Zeniverse unites every player from countless games and platforms, both
-            digital and physical, into a unified Play Economy
+            Zeniverse unites every player from countless games and platforms, both digital and physical, into a unified Play Economy
           </p>
         </div>
       </div>
