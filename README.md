@@ -113,8 +113,8 @@ Using just a click, view upcoming video and transition the background
 # Geometric Transitions
 <img src="/public/img/geometricTransitions.png" alt="geometric transitions">
 
-# Bentobox Designs
-<img src="/public/img/bentoBoxDesign.png" alt="bentobox designs">
+# Bento Card Reusable Components 
+<img src="/public/img/bentoCardDesign.png" alt="bento card designs">
 
 # Toggle Audio Indicator
 <img src="/public/img/ToggleAudioIndicator.png" alt="toggle audio indicator">
