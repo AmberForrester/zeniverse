@@ -61,9 +61,11 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 ## Installation
 
 ### Prerequisite Tech Stacks
-- **React.js:** [React](https://react.dev/learn/start-a-new-react-project).
-- **Vite:** [Vite](https://vite.dev/guide/)
-- **Tailwind CSS:** [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
+- [React](https://react.dev/learn/start-a-new-react-project).
+- [Vite](https://vite.dev/guide/)
+- [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
+- [GSAP](https://gsap.com/)
+- [CSS clip-path maker](https://bennettfeely.com/clippy/)
 
 
 
