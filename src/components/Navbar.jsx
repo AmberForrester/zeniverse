@@ -2,9 +2,7 @@ import clsx from "clsx";
 import gsap from "gsap";
 import { useWindowScroll } from "react-use";
 import { useEffect, useRef, useState } from "react";
-// import { TiLocationArrow } from "react-icons/ti";
-
-// import Button from "./Button";
+import { MdOutlineMusicOff } from "react-icons/md";
 
 const navItems = ["Story", "About", "Contact"];
 
@@ -93,6 +91,7 @@ const NavBar = () => {
               ))}
             </div>
 
+            {/* Audio Toggle Button */}
             <button
               onClick={toggleAudioIndicator}
               className="ml-10 flex items-center space-x-0.5"
@@ -103,17 +102,22 @@ const NavBar = () => {
                 src="/audio/loop.mp3"
                 loop
               />
-              {[1, 2, 3, 4].map((bar) => (
-                <div
-                  key={bar}
-                  className={clsx("indicator-line", {
-                    active: isIndicatorActive,
-                  })}
-                  style={{
-                    animationDelay: `${bar * 0.1}s`,
-                  }}
-                />
-              ))}
+              {/* Show MdOutlineMusicOff only when audio is not playing */}
+              {!isAudioPlaying && <MdOutlineMusicOff size={24} style={{ color: "white" }}/>}
+
+              {/* Animated indicator lines */}
+              {isIndicatorActive &&
+                [1, 2, 3, 4].map((bar) => (
+                  <div
+                    key={bar}
+                    className={clsx("indicator-line", {
+                      active: isIndicatorActive, // Activate animation when audio is playing
+                    })}
+                    style={{
+                      animationDelay: `${bar * 0.1}s`,
+                    }}
+                  />
+                ))}
             </button>
           </div>
         </nav>
