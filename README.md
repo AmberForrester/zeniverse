@@ -14,14 +14,15 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 <br />
 
 <a href="https://zeniverse.amberforrester.io">Zeniverse Live Link</a>
-.
-<a href="https://github.com/AmberForrester/zeniverse"><strong>Source Code</strong></a>
+
 
 
 <br />
-<a href="">Report Bug</a>
+<a href="https://github.com/AmberForrester/zeniverse">Source Code</a>
 .
-<a href="">Request Feature</a>
+<a href="https://github.com/AmberForrester/zeniverse/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
+.
+<a href="https://github.com/AmberForrester/zeniverse/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
 </p>
 </div>
 
@@ -174,6 +175,6 @@ Please take some time to check out the links below! I found value in each and ev
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
 > [!TIP]
-> Deploy your application using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+> Supercharge your deployment process with the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
