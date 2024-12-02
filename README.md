@@ -13,7 +13,7 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 <br />
 <br />
 
-<a href="https://zeniverse.amberforrester.io">Zeniverse Live Link</a>
+<a href="https://zeniverse.vercel.app/">Zeniverse Live Link</a>
 
 
 
