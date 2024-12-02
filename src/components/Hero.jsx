@@ -124,7 +124,6 @@ const Hero = () => {
                     id="next-video"
                     className="absolute-center invisible absolute z-20 size-64 object-cover object-center"
                     onLoadedData={handleVideoLoad}
-                    onCanPlay={() => setisLoading(false)}
                 />
 
                 <video 
