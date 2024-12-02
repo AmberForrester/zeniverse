@@ -22,6 +22,9 @@ const Hero = () => {
 
     const handleVideoLoad = () => {
         setLoadedVideos((prev) => prev + 1);
+        if (loadedVideos + 1 === totalVideos) {
+            setisLoading(false);
+        }
     };
 
     const upcomingVideoIndex = (currentIndex % totalVideos) + 1;
@@ -41,13 +44,14 @@ const Hero = () => {
 
     useGSAP(() => {
         if(hasClicked) {
-            gsap.set('#next-video', { visibility: 'visible'});
+            gsap.set('#next-video', { visibility: 'visible', opacity: 0});
 
             gsap.to('#next-video', {
                 transformOrigin: 'center center',
                 scale: 1,
                 width: '100%',
                 height: '100%',
+                opacity: 1,
                 duration: 1,
                 ease: 'power1.inOut',
                 onStart: () => nextVideoRef.current.play(),
@@ -57,7 +61,11 @@ const Hero = () => {
                 transformOrigin: 'center center',
                 scale: 0,
                 duration: 1.5,
+                opacity: 0,
                 ease: 'power1.inOut',
+                onComplete: () => {
+                    gsap.set("#current-video", { visibility: "hidden" });
+                },
             });
         }
     }, 
@@ -121,9 +129,11 @@ const Hero = () => {
                     src={getVideoSrc(currentIndex)}
                     loop
                     muted
+                    preload="auto"
                     id="next-video"
                     className="absolute-center invisible absolute z-20 size-64 object-cover object-center"
                     onLoadedData={handleVideoLoad}
+                    onCanPlay={() => setisLoading(false)}
                 />
 
                 <video 
@@ -131,6 +141,7 @@ const Hero = () => {
                     autoPlay
                     loop
                     muted
+                    preload="auto"
                     className="absolute left-0 top-0 size-full object-cover object-center"
                     onLoadedData={handleVideoLoad}
                 />
