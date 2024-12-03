@@ -68,10 +68,10 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 ### Prerequisite Tech Stacks
 - [React](https://react.dev/learn/start-a-new-react-project)
 - [Vite](https://vite.dev/guide/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
 - [GSAP](https://gsap.com/)
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
