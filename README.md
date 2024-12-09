@@ -44,12 +44,12 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 
 
 ## Features
-- **Scroll Activated Magic:** Transform your browsing experience with dynamic, scroll-based animations that bring every element to life.
-- **Geometric Masterpieces:** Experience stunning clip-path animations, where unique geometric transitions blend art and technology for an unforgettable visual impact.
-- **Interative 3D Hover Effects:** Feel the future at your fingertips with responsive 3D transformations that react seamlessly to every move, delivering a sleek and modern user interface.
-- **Immersive Video Transitions:** Enhance storytelling with fluidly integrated video elements that guide users through a captivating and cinematic digital journey.
-- **Engaging UI/UX:** Delight in polished interfaces and buttery-smooth interactions, designed to make every click and scroll intuitive and effortless.
-- **Seamless Responsiveness:** From desktops to smartphones, enjoy flawless adaptability across all devices, ensuring a consistently premium experience wherever you go.
+- **Scroll-Activated Visual Effects:** Showcasing mastery in GSAP, creating dynamic, scroll-triggered animations that captivate users and enhance storytelling through interactive visuals.
+- **Artistic Geometric Transitions:** Harnessing the power of CSS clip-path to craft intricate geometric animations, merging creativity with technical precision.
+- **Advanced Hover Interactions:** Leveraging React.js to deliver cutting-edge 3D hover effects, demonstrating expertise in creating responsive, interactive elements that elevate user engagement.
+- **Immersive Media Integration:** Seamlessly blending video elements into the design for a cinematic user experience, highlighting proficiency in modern front-end development.
+- **Polished UI/UX Design:** Expertly utilizing Tailwind CSS to create visually stunning, user-friendly interfaces with buttery smooth interactions and pixel perfect alignment.
+- **Device-Agnostic Responsiveness:** Ensuring exceptional usability across all devices, showcasing skills in responsive web design for optimal performance on desktops, tablets, and smartphones.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
