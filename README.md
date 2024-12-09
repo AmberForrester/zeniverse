@@ -44,7 +44,7 @@ Zeniverse beautifully captures the essence of a harmonious and expansive digital
 
 
 ## Features
-- **Scroll-Activated Visual Effects:** Showcasing mastery in GSAP, creating dynamic, scroll-triggered animations that captivate users and enhance storytelling through interactive visuals.
+- **Scroll Activated Visual Effects:** Showcasing mastery in GSAP, creating dynamic, scroll-triggered animations that captivate users and enhance storytelling through interactive visuals.
 - **Artistic Geometric Transitions:** Harnessing the power of CSS clip-path to craft intricate geometric animations, merging creativity with technical precision.
 - **Advanced Hover Interactions:** Leveraging React.js to deliver cutting-edge 3D hover effects, demonstrating expertise in creating responsive, interactive elements that elevate user engagement.
 - **Immersive Media Integration:** Seamlessly blending video elements into the design for a cinematic user experience, highlighting proficiency in modern front-end development.
